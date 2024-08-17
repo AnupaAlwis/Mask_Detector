@@ -1,8 +1,0 @@
-path: D:/ML Resources/Construction_site_data_set/css-data
-train: D:/ML Resources/Construction_site_data_set/css-data/test/images
-val: D:/ML Resources/Construction_site_data_set/css-data/valid/images
-test: D:/ML Resources/Construction_site_data_set/css-data/train/images
-
-nc : 10
-names: ['Hardhat', 'Mask', 'NO=Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']
-
